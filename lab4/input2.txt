@@ -1,2 +1,0 @@
-int y= [{a*(b/c}
-int x= [(a+b)-{b*(c-d)}];
